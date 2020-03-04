@@ -83,7 +83,7 @@ Choosing the right Components
 
 A pipeline usually consist of three main parts:
 
-    1. Tokenizaion
+    1. Tokenization
     2. Featurization
     3. Entity Recognition / Intent Classification / Response Selectors
 
